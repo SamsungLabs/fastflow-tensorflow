@@ -1,0 +1,5 @@
+op {
+  graph_op_name: "FastflowOffloadingFetchV2"
+  visibility: HIDDEN
+  summary: "Creates an operator that fetches data from the tf.data service."
+}
